@@ -4,4 +4,5 @@ deep_sort/deep/checkpoint/
 lightWeight.pth
 LAVFilters-0.73.1.exe
 video-02.mp4
+detectCar/carClassify.pth
 
