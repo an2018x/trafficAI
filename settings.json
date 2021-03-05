@@ -1,0 +1,1 @@
+{"yoloweight": "./weights/yolov5x.pt", "carspeedlimit": 40, "trafficjamlimit": 12, "savevideo": true, "carclassify": true}
